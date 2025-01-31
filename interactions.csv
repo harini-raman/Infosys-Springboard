@@ -1,0 +1,52 @@
+interaction_id,customer_id,date,channel,query,sentiment,tone,intent
+1,1,2025-01-10,Call,Need pricing details,Neutral,Informative,Inquiry
+2,2,2025-01-09,Email,Feedback on product,Positive,Friendly,Feedback
+3,3,2025-01-08,Meeting,Customization options,Neutral,Professional,Inquiry
+4,4,2025-01-07,Call,Demo scheduling,Neutral,Professional,Request
+5,5,2025-01-06,Email,Premium package interest,Positive,Excited,Purchase
+6,6,2025-01-05,Call,Follow-up request,Negative,Frustrated,Follow-up
+7,7,2025-01-04,Meeting,Billing concern,Negative,Concerned,Complaint
+8,8,2025-01-03,Email,New feature inquiry,Neutral,Inquisitive,Inquiry
+9,9,2025-01-02,Call,Switching competitor,Negative,Disappointed,Switching
+10,10,2025-01-01,Email,Loyalty rewards,Positive,Friendly,Upgrade
+"11","1","2025-01-21 19:58:48.714686","call"," Hello, hello, hello, my testing one to team.  This is a big video.  If you have not taken any video, you will not see another one, so take two.","Neutral","['Informative']","Providing information"
+"12","1","2025-01-21 21:06:54.074809","call"," Hello, hello, hello, my testing on to team.  Thank you very much for your time.","Neutral","['Informative', 'Neutral']","Providing information"
+"13","1","2025-01-21 21:59:01.306226","call"," Hello, hello, my testing one, two, three.","Neutral","['Testing']","Testing audio"
+"13","1","2025-01-21 21:59:22.669833","call"," You","Neutral","['Calm']","Undefined"
+"13","1","2025-01-21 21:59:45.436812","call"," Thanks it, thanks it.","Neutral","['Flat']","Giving a command"
+"14","1","2025-01-21 22:00:52.857712","call"," Hello, hello, I'm testing one, do you?","Neutral","['Testing']","Testing audio"
+"15","1","2025-01-21 22:05:12.862135","call","Hello, hello, hello.","Neutral","['Testing', 'Calm']","Testing equipment"
+"16","1","2025-01-21 22:09:24.555906","call","Hello, hello, hello, hello, my testing window too.","Neutral","['Calm', 'Testing']","Testing audio equipment"
+"17","1","2025-01-21 22:09:45.371808","call","I don't need your product. Bye.","Negative","['Dismissive', 'Annoyed']","Expressing rejection"
+"18","1","2025-01-23 16:02:30.693927","call","You","Neutral","['Calm']","No specific intent detected"
+"19","1","2025-01-23 16:02:51.587516","call","You","Neutral","['Calm']","Undetermined"
+"20","1","2025-01-23 16:03:11.963234","call","You","Neutral","['Inaudible']","Not applicable"
+"21","1","2025-01-23 16:03:37.787343","call","I am not satisfied with your product.","Negative","['Dissatisfied', 'Frustrated']","Expressing dissatisfaction"
+"22","1","2025-01-23 16:44:32.421649","call"," I would I'm not satisfied with the product","Neutral","Calm","General Inquiry"
+"23","1","2025-01-23 16:54:36.646121","call"," not satisfied with the product.","Neutral","Calm","General Inquiry"
+"24","1","2025-01-23 17:10:26.885498","call"," Not satisfied with the product.","Neutral","Calm","General Inquiry"
+"25","1","2025-01-27 20:29:02.932950","call"," I am not satisfied with your product.","Neutral","Calm","General Inquiry"
+"26","1","2025-01-28 21:21:56.634487","call"," I am not satisfied with the product.","Neutral","Calm","General Inquiry"
+"27","1","2025-01-28 21:42:50.700333","call"," Give some information about INBOX.","Neutral","Calm","General Inquiry"
+"28","1","2025-01-28 21:45:38.022884","call"," I like your product, I'll buy it.","Neutral","Calm","General Inquiry"
+"29","1","2025-01-29 17:01:32.199062","call"," I'm not satisfied with your product","Neutral","Calm","General Inquiry"
+"30","1","2025-01-29 17:04:03.118689","call"," Give some discount.","Neutral","Calm","General Inquiry"
+"31","1","2025-01-29 17:05:46.781851","call"," Give some discount.","Neutral","Calm","General Inquiry"
+"32","1","2025-01-29 17:11:17.186944","call"," would like to get more discount.","Neutral","Calm","General Inquiry"
+"33","1","2025-01-29 17:15:58.159471","call"," Would like to get more discount?","Neutral","Calm","General Inquiry"
+"34","1","2025-01-29 17:21:49.687035","call"," I would like to get some red dust count.","Neutral","Calm","General Inquiry"
+"35","1","2025-01-29 17:34:02.339027","call"," I am not satisfied with the product","Neutral","Calm","General Inquiry"
+"36","1","2025-01-29 17:41:12.919951","call"," Not satisfied with the product.","Neutral","Calm","General Inquiry"
+"37","1","2025-01-29 18:01:52.227398","call"," I would like to buy a product.","Neutral","Calm","General Inquiry"
+"38","1","2025-01-29 18:04:13.328185","call"," Hi.","Neutral","Calm","General Inquiry"
+"39","1","2025-01-29 18:16:38.262841","call"," give some discount.","Neutral","Calm","General Inquiry"
+"40","1","2025-01-29 18:20:33.583953","call"," Thank you so much for your help.","Neutral","Calm","General Inquiry"
+"41","1","2025-01-29 18:33:50.326827","call"," Hey, I would like to know about some product which you sell.","Neutral","['Inquisitive', 'Calm']","Seeking information"
+"42","1","2025-01-29 18:35:49.651244","call"," I'm okay with any time, but like the product which I received last week, I was not much satisfied with that.  What should I do with the product? I want to replace it, I just don't want that product and I didn't like the product at all and I was very unsatisfied with your customer service.","Negative","['Frustrated', 'Dissatisfied']","Expressing dissatisfaction, Making a request"
+"43","1","2025-01-29 18:40:26.394065","call"," Hi, I would like to know about the product yourself, a short reply.","Neutral","['Inquisitive']","Seeking information"
+"44","1","2025-01-29 18:41:18.331803","call"," I'm not liking your service.","Negative","['Disappointed']","Expressing dissatisfaction"
+"45","1","2025-01-29 18:51:53.800820","call"," Hi, I would like to know some product which you sell.","Neutral","['Inquisitive']","Seeking information"
+"46","1","2025-01-29 18:54:41.569731","call"," I'm not satisfied with your product at all.","Negative","['Frustrated', 'Disappointed']","Expressing dissatisfaction"
+"47","1","2025-01-29 19:05:06.901967","call"," I am happy to buy products from here.","Positive","['Happy']","Sharing a personal experience"
+"48","1","2025-01-29 19:08:18.182322","call"," I'm not satisfied.","Negative","['Dissatisfied']","Expressing dissatisfaction"
+"49","1","2025-01-29 19:14:13.400331","call"," action or satisfy productive to the small day short time.","Negative","['Frustrated', 'Disappointed']","Expressing dissatisfaction"
